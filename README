@@ -1,0 +1,27 @@
+
+
+git clone https://github.com/seu-usuario/jogo-da-cobrinha.git
+
+	2.	Abra o arquivo index.html no navegador.
+
+Não precisa instalar nada.
+
+🛠️ Tecnologias
+
+	•	HTML5 (estrutura e <canvas>)
+	•	CSS3 (estilo)
+	•	JavaScript (lógica do jogo)
+
+📁 Estrutura
+
+├── index.html
+├── style.css
+└── script.js
+
+💡 Objetivo
+
+Projeto de estudo para praticar lógica de programação, manipulação do DOM e laço de jogo (setInterval) com poucas linhas de código.
+
+👨‍💻 Autor
+
+Feito por Lucas Silva Santos.
