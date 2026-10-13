@@ -1,4 +1,16 @@
+🐍 Jogo da Cobrinha
 
+Jogo da cobrinha clássico feito com HTML, CSS e JavaScript puro, em menos de 100 linhas de código.
+
+🎮 Como jogar
+
+	•	Use as setas do teclado para mover a cobrinha.
+	•	Coma a comida para crescer e ganhar pontos.
+	•	O jogo termina se a cobrinha bater na parede ou em si mesma.
+
+▶️ Como executar
+
+	1.	Clone o repositório:
 
 git clone https://github.com/seu-usuario/jogo-da-cobrinha.git
 
